@@ -1,0 +1,809 @@
+body {
+     background: #932d2d url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/top-repeat.jpg") repeat-x scroll right top;
+     color: #8c1e1e;
+     font: 12px/11px tahoma,arial,helvetica,sans-serif;
+     margin: 0px;
+     padding: 0px;
+}
+
+.page {
+     background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+     color: #8c1e1e;
+}
+
+#des4x {
+     height: auto;
+     margin: 0px auto;
+     width: 985px;
+}
+
+#container {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-des4x.jpg") repeat-y scroll 0% 0%;
+     height: auto;
+     width: 985px;
+}
+
+#content {
+     height: auto;
+     margin: 0px 23px 0px 24px;
+     width: 940px;
+}
+
+#header {
+     clear: both;
+     height: 909px;
+     position: relative;
+     width: 985px;
+}
+
+#header-topnavigation {
+     height: 60px;
+     overflow: hidden;
+     position: relative;
+     width: 985px;
+}
+
+#header-topnavigation .navigation {
+     height: 51px;
+     position: absolute;
+     right: 0px;
+     top: 21px;
+     width: 740px;
+}
+
+#header-topnavigation .navigation ul {
+     list-style: outside none none;
+     margin: 0px;
+     padding: 0px;
+}
+
+#header-topnavigation .navigation ul li {
+     float: right;
+     list-style: outside none none;
+     margin: 0px;
+     padding: 0px 5px;
+}
+
+#header-topnavigation .navigation ul li a {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/navigationbuttons.png") no-repeat scroll center bottom;
+     color: #860f0f;
+     display: block;
+     font: bold 13px/45px tahoma;
+     height: 51px;
+     text-align: center;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #ff9f9f;
+     width: 125px;
+}
+
+#header-topnavigation .navigation ul li a:hover {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/navigationbuttons.png") no-repeat scroll center top;
+     color: #fed9d9;
+     line-height: 45px;
+     text-align: center;
+     text-shadow: 1px 1px 1px #862323;
+}
+
+#header-topnavigation .navigation ul li a.active {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/navigationbuttons.png") no-repeat scroll center top;
+     color: #fed9d9;
+     line-height: 45px;
+     text-align: center;
+     text-shadow: 1px 1px 1px #862323;
+}
+
+#header-topnavigation .feed {
+     height: 42px;
+     left: 20px;
+     position: absolute;
+     top: 28px;
+     width: 170px;
+}
+
+#header-topnavigation .feed a {
+     display: block;
+     float: left;
+     height: 42px;
+     margin-right: 5px;
+     width: 33px;
+}
+
+#header-topnavigation .feed a.facebook {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll 0px 0px;
+}
+
+#header-topnavigation .feed a.facebook:hover {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll 0px -42px;
+}
+
+#header-topnavigation .feed a.twitter {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll -33px 0px;
+}
+
+#header-topnavigation .feed a.twitter:hover {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll -33px -42px;
+}
+
+#header-topnavigation .feed a.rss {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll -66px 0px;
+}
+
+#header-topnavigation .feed a.rss:hover {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll -66px -42px;
+}
+
+#header-topnavigation .feed a.youtube {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll -99px 0px;
+}
+
+#header-topnavigation .feed a.youtube:hover {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/feed.png") no-repeat scroll -99px -42px;
+}
+
+#header-content {
+     background: rgba(0, 0, 0, 0) url("http://i68.tinypic.com/314qc5l.png") no-repeat scroll 0% 0%;
+     height: 204px;
+     position: relative;
+}
+
+#header-content a.header-logo {
+     height: 84px;
+     position: absolute;
+     right: 45px;
+     top: 75px;
+     width: 365px;
+}
+
+#header-content a.header-register {
+     height: 81px;
+     position: absolute;
+     right: 431px;
+     top: 99px;
+     width: 17px;
+}
+
+.header-searchbox {
+     height: 47px;
+     position: absolute;
+     right: 448px;
+     top: 18px;
+     width: 330px;
+}
+
+.header-searchbox .text {
+     background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+     border: medium none;
+     color: #e87e7e;
+     cursor: pointer;
+     font: bold 12px/25px tahoma;
+     height: 25px;
+     position: absolute;
+     right: 37px;
+     text-shadow: 1px 1px 2px #fff1f1;
+     top: 11px;
+     width: 175px;
+}
+
+.header-searchbox .submit {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/header-searchbox.png") no-repeat scroll 0% 0%;
+     display: block;
+     height: 47px;
+     left: 0px;
+     position: absolute;
+     top: 0px;
+     width: 101px;
+}
+
+.header-loginbox {
+     height: 104px;
+     position: absolute;
+     right: 458px;
+     top: 74px;
+     width: 316px;
+}
+
+.header-loginbox .husername {
+     background: #9a2323 url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-1.png") repeat-x scroll 0% 0%;
+     color: #fed9d9;
+     display: block;
+     font: bold 14px/35px arial;
+     height: 35px;
+     text-align: center;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #862323;
+     width: 316px;
+}
+
+.header-loginbox .husername:hover {
+     background: #f9bfbf url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-2.png") repeat-x scroll 0% 0%;
+     color: #860f0f;
+     line-height: 35px;
+     text-align: center;
+     text-shadow: 1px 1px 1px #ff9f9f;
+}
+
+.header-loginbox .lastvisite span {
+     color: #ffffff;
+}
+
+.header-loginbox .lastvisite {
+     background: #9a2323 url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-1.png") repeat-x scroll 0% 0%;
+     color: #fed9d9;
+     display: block;
+     font: bold 14px/35px arial;
+     height: 35px;
+     text-align: center;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #862323;
+     width: 316px;
+}
+
+.header-loginbox .lastvisite:hover {
+     background: #f9bfbf url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-2.png") repeat-x scroll 0% 0%;
+     color: #860f0f;
+     line-height: 35px;
+     text-align: center;
+     text-shadow: 1px 1px 1px #ff9f9f;
+}
+
+.header-loginbox #notifications span, .header-loginbox #notifications a {
+     color: #ffffff;
+}
+
+.header-loginbox #notifications {
+     background: #9a2323 url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-1.png") repeat-x scroll 0% 0%;
+     color: #fed9d9;
+     display: block;
+     font: bold 14px/35px arial;
+     height: 35px;
+     text-align: center;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #862323;
+     width: 316px;
+}
+
+.header-loginbox #notifications:hover {
+     background: #f9bfbf url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-2.png") repeat-x scroll 0% 0%;
+     color: #860f0f;
+     line-height: 35px;
+     text-align: center;
+     text-shadow: 1px 1px 1px #ff9f9f;
+}
+
+.header-loginbox #rasael a {
+     color: #ffffff;
+}
+
+.header-loginbox #rasael {
+     background: #9a2323 url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-1.png") repeat-x scroll 0% 0%;
+     color: #fed9d9;
+     display: block;
+     font: bold 14px/35px arial;
+     height: 35px;
+     text-align: center;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #862323;
+     width: 316px;
+}
+
+.header-loginbox #rasael:hover {
+     background: #f9bfbf url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-2.png") repeat-x scroll 0% 0%;
+     color: #860f0f;
+     line-height: 35px;
+     text-align: center;
+     text-shadow: 1px 1px 1px #ff9f9f;
+}
+
+.header-loginbox .login-form {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/header-loginbox.png") no-repeat scroll 0% 0%;
+     display: block;
+     height: 104px;
+     position: relative;
+     width: 316px;
+}
+
+.header-loginbox .login-form .username {
+     background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+     border: medium none;
+     color: #f49999;
+     cursor: pointer;
+     display: block;
+     font: bold 12px tahoma;
+     height: 19px;
+     padding: 0px;
+     position: absolute;
+     right: 42px;
+     text-shadow: 1px 1px 2px #ffffff;
+     top: 10px;
+     width: 149px;
+}
+
+.header-loginbox .login-form .password {
+     background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+     border: medium none;
+     color: #f49999;
+     cursor: pointer;
+     display: block;
+     font: bold 12px tahoma;
+     height: 19px;
+     position: absolute;
+     right: 42px;
+     text-shadow: 1px 1px 2px #ffffff;
+     top: 52px;
+     width: 149px;
+}
+
+.header-loginbox .login-form .checkk {
+     color: #d96161;
+     font: 12px tahoma;
+     position: absolute;
+     right: 34px;
+     text-shadow: 1px 1px 1px #ffffff;
+     top: 82px;
+}
+
+.header-loginbox .login-form .sign-button {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/loginbox-submit.png") no-repeat scroll 0% 0%;
+     display: block;
+     height: 35px;
+     left: 5px;
+     position: absolute;
+     top: 66px;
+     width: 102px;
+}
+
+.header-banner {
+     background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+     bottom: 25px;
+     height: 167px;
+     left: 15px;
+     position: absolute;
+     width: 179px;
+}
+
+.header-banner .banner {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/bannershadow-175x45.png") no-repeat scroll center bottom;
+     height: 52px;
+     margin: 4px 0px;
+     width: 179px;
+}
+
+#header-bottom {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-des4x.jpg") repeat-y scroll 0% 0%;
+     height: 645px;
+     position: relative;
+     width: 985px;
+}
+
+#header-bottom .products {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/products.png") no-repeat scroll 0% 0%;
+     height: 113px;
+     margin-right: -11px;
+     position: relative;
+     width: 978px;
+}
+
+#header-bottom .products .lastposts {
+     font: 12px/27px tahoma;
+     height: 27px;
+     overflow: hidden;
+     position: absolute;
+     right: 150px;
+     text-shadow: 1px 1px 1px #ffffff;
+     top: 16px;
+     width: 797px;
+}
+
+#header-bottom .products .lastposts a {
+     font: 12px tahoma;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+#header-bottom .products .lastposts strong {
+     font: 12px tahoma;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+#header-bottom .products .lastposts li {
+     font: 12px tahoma;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+#header-bottom .products .lastposts p {
+     font: 12px tahoma;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+#header-bottom .products .lastposts span {
+     font: 12px tahoma;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+#header-bottom .products .ehd {
+     height: 35px;
+     position: absolute;
+     right: 140px;
+     top: 55px;
+     width: 835px;
+}
+
+#header-bottom .products .ehd .smallfont {
+     display: block;
+     float: right;
+     font: 12px/35px tahoma;
+     height: 35px ! important;
+     width: 720px ! important;
+}
+
+#header-bottom .products .ehd .button {
+     color: #ffffff ! important;
+     float: left;
+     margin-left: 20px;
+     margin-top: 5px;
+}
+
+.bannersbox {
+     height: 318px;
+     left: 22px;
+     position: absolute;
+     top: 115px;
+     width: 473px;
+}
+
+.bannersbox img {
+     float: right;
+     margin: 1px;
+}
+
+.blockchat {
+     background: #fadbdb none repeat scroll 0% 0%;
+     border: 1px solid #f3c0c0;
+     height: 65px;
+     position: absolute;
+     right: 35px;
+     top: 118px;
+     width: 440px;
+}
+
+.blockchat:hover {
+     background: #fae1e1 none repeat scroll 0% 0%;
+}
+
+.blockchat .block {
+     float: right;
+     height: 65px;
+     width: 230px;
+}
+
+.blockchat .block h1 {
+     color: #e26262;
+     font: bold 14px tahoma;
+     margin: 0px;
+     padding: 5px 10px;
+     text-shadow: 1px 1px 2px #ffffff;
+}
+
+.blockchat .block p {
+     color: #f69999;
+     font: 12px tahoma;
+     margin: 0px;
+     padding: 0px 10px 0px 0px;
+     text-shadow: 1px 1px 2px #ffffff;
+}
+
+.blockchat .chatcode {
+     float: left;
+     height: 65px;
+     width: 210px;
+}
+
+.blockchat .chatcode p {
+     border: 0px none ! important;
+     margin: 0px;
+     outline: 0px none ! important;
+     padding: 0px;
+}
+
+.blockchat .chatcode p applet:focus {
+     border: 0px none;
+     outline: 0px none;
+}
+
+.header-links {
+     background: #fadbdb none repeat scroll 0% 0%;
+     border: 1px solid #f3c0c0;
+     height: 232px;
+     position: absolute;
+     right: 35px;
+     top: 188px;
+     width: 440px;
+}
+
+.header-links:hover {
+     background: #fae1e1 none repeat scroll 0% 0%;
+}
+
+.header-links ul {
+     float: right;
+     height: 232px;
+     list-style: outside none none;
+     margin: 0px 5px;
+     padding: 0px;
+     width: 210px;
+}
+
+.header-links ul li {
+     list-style: outside none none;
+     margin: 0px;
+     padding: 0px;
+}
+
+.header-links ul li a {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/header-linksbg.png") no-repeat scroll center bottom;
+     color: #df5656;
+     display: block;
+     font: bold 12px/40px tahoma;
+     height: 40px;
+     margin: 5.2px 0px;
+     text-indent: 5px;
+     text-shadow: 1px 1px 1px #ffe3e3;
+     width: 210px;
+}
+
+.header-links ul li a:hover {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/header-linksbg.png") no-repeat scroll center top;
+     color: #ffcdcd;
+     font: bold 12px/40px tahoma;
+     text-indent: 5px;
+     text-shadow: 1px 1px 1px #cf3e3e;
+}
+
+.medales {
+     height: 195px;
+     position: absolute;
+     right: 30px;
+     top: 437px;
+     width: 925px;
+}
+
+.medales .medal {
+     background: rgba(0, 0, 0, 0) url("http://store2.up-00.com/2016-12/1482402283811.png") no-repeat scroll 0% 0%;
+     float: right;
+     height: 195px;
+     margin: 0px 22px;
+     position: relative;
+     width: 182px;
+}
+
+.medales .medal span.head {
+     color: #ffeaea;
+     display: block;
+     font: 10px/12px tahoma;
+     height: 12px;
+     position: absolute;
+     right: 1px;
+     text-align: center;
+     top: 142px;
+     width: 87px;
+}
+
+.medales .medal h2 {
+     color: #a32727;
+     display: block;
+     font: bold 12px/17px tahoma;
+     height: 17px;
+     margin: 0px;
+     position: absolute;
+     right: 15px;
+     text-align: center;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #ffecec;
+     top: 158px;
+     width: 160px;
+}
+
+#footer-repeat {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/footer-repeat.jpg") repeat-x scroll right center;
+     height: 288px;
+     width: auto;
+}
+
+#footer {
+     background: rgba(0, 0, 0, 0) url("http://store2.up-00.com/2016-12/1482402283872.png") no-repeat scroll 0% 0%;
+     height: 288px;
+     margin: 0px auto;
+     overflow: hidden;
+     position: relative;
+     width: 985px;
+}
+
+#footer .clock {
+     color: #f9aeae;
+     font: bold 15px/24px tahoma;
+     height: 24px;
+     position: absolute;
+     right: 98px;
+     text-indent: 5px;
+     text-shadow: 1px 1px 1px #a34242;
+     top: 88px;
+     width: 175px;
+}
+
+#footer .clock span {
+     color: #fac8c8;
+     cursor: pointer;
+     font: bold 12px tahoma;
+     text-shadow: 1px 1px 1px #a34242;
+}
+
+#footer .clock span:hover {
+     color: #ffffff;
+}
+
+#footer .totop {
+     display: block;
+     height: 18px;
+     position: absolute;
+     right: 486px;
+     top: 42px;
+     width: 27px;
+}
+
+#footer .menus {
+     height: 149px;
+     left: 26px;
+     position: absolute;
+     top: 98px;
+     width: 489px;
+}
+
+#footer .menus ul.link {
+     float: right;
+     height: 149px;
+     width: 160px;
+}
+
+#footer .menus ul.link li {
+     list-style: outside none none;
+     margin: 0px;
+     padding: 0px;
+}
+
+#footer .menus ul.link li a {
+     color: #ffb0b0;
+     display: block;
+     font: bold 12px/20px tahoma;
+     height: 20px;
+     text-indent: 5px;
+     text-shadow: 1px 1px 1px #911414;
+     width: 160px;
+}
+
+#footer .menus .description {
+     float: left;
+     height: 149px;
+     width: 312px;
+}
+
+#footer .menus .description h2 {
+     font: bold 16px tahoma;
+     margin: 0px;
+     padding: 4px 0px;
+     text-shadow: 1px 1px 1px #c37373;
+}
+
+#footer .menus .description p {
+     color: #ffb0b0;
+     font: 12px tahoma;
+     margin: 0px;
+     padding: 0px;
+}
+
+.copyright {
+     bottom: 11px;
+     direction: ltr;
+     height: 18px;
+     left: 24px;
+     line-height: 1px;
+     position: absolute;
+     width: 420px;
+}
+
+.copyright span {
+     color: #efa4a4;
+     display: block;
+     float: left;
+     font: 13px tahoma;
+     height: 18px;
+     text-shadow: 1px 1px 1px #9b2c2c;
+     width: 230px;
+}
+
+.framing {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/fram-repeat.jpg") repeat-y scroll 0% 0%;
+     height: auto;
+     width: 940px;
+}
+
+.framing .framtop {
+     background: rgba(0, 0, 0, 0) url("http://store2.up-00.com/2016-12/1482403602061.png") no-repeat scroll center top;
+     height: 68px;
+     position: relative;
+     width: 940px;
+}
+
+.framing .frambottom {
+     background: rgba(0, 0, 0, 0) url("http://store2.up-00.com/2016-12/1482403602061.png") no-repeat scroll center bottom;
+     height: 61px;
+     width: 940px;
+}
+
+.framing .framcontent {
+     height: auto;
+     margin: 0px 23px 0px 21px;
+     width: 898px;
+}
+
+.framing .framtop .heading {
+     height: 30px;
+     position: absolute;
+     right: 67px;
+     top: 12px;
+     width: 400px;
+}
+
+.framing .framtop .heading h1 {
+     font: bold 14px/30px tahoma;
+     margin: 0px;
+     text-indent: 4px;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+.framing .framtop .heading a {
+     display: block;
+     font: bold 14px/30px tahoma;
+     margin: 0px;
+     text-indent: 4px;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+.ghostw {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-2.png") repeat-x scroll 0% 0%;
+     border-radius: 20px;
+     border: 1px solid #f3a3a3;
+     font: bold 12px/35px tahoma;
+     height: 45px;
+     margin: 20px 98px;
+     text-indent: 20px;
+     width: 750px;
+}
+
+.ghostw img {
+     float: right;
+     padding: 7px 10px;
+}
+
+.ghostw p {
+     font: bold 12px/45px tahoma;
+     margin: 0px;
+     padding: 0px;
+     text-shadow: 1px 1px 1px #ffffff;
+}
+
+.ghostw p a {
+     color: #000000;
+}
+
+.ghostw:hover {
+     background: rgba(0, 0, 0, 0) url("http://www.elnooronline.com/vbskaka/forum/baghdad/images/repeat-1.png") repeat-x scroll 0% 0%;
+     border: 1px solid #8f2323;
+}
+
+.ghostw:hover p {
+     color: #ffe8e8;
+     text-shadow: 1px 1px 1px #761111;
+}
+
+.ghostw:hover p a {
+     color: #ffffff;
+}
